@@ -11,13 +11,11 @@ Disclaimer: I have by no means created an app that adheres to Xamarin Recommende
 
 <h2>Contents</h2>
 
-These are the Xamarin samples availble demonstrating Google Play game services.
+These are the Xamarin samples available demonstrating Google Play game services.
 
-* **BasicSamples** - a set of basic samples, including a convenience library (BaseGameUtils):
+**BaseGameUtils**. Utilities used on all samples, which you can use in your projects too. This is not a stand-alone sample, it's a library project. Note: I have pulled this class into the MainActivity.cs file for simplicty, see Disclaimer above before complaining
 
-    * **BaseGameUtils**. Utilities used on all samples, which you can use in your projects too. This is not a stand-alone sample, it's a library project. Note: I have pulled this class into the MainActivity.cs file for simplicty, see Disclaimer above before complaining
-
-    * **ButtonClicker2000**. Represents the new generation in modern button-clicking excitement. A simple multiplayer game sample that shows how to set up the Google Play real-time multiplayer API, invite friends, automatch, accept invitations, use the waiting room UI, send and receive messages and other multiplayer topics.
+**ButtonClicker2000**. Represents the new generation in modern button-clicking excitement. A simple multiplayer game sample that shows how to set up the Google Play real-time multiplayer API, invite friends, automatch, accept invitations, use the waiting room UI, send and receive messages and other multiplayer topics.
 
 <h3>Building</h3>
 Step 1: Firstly, set up a your Google Play Services and App to test the app as specified here:
