@@ -1,4 +1,4 @@
-Google Play game services - Xamarin Andriod Sample
+Google Play game services - Xamarin Android Sample
 ===========================================
 I have taken the playgameservices/android-basic-samples Button Clicker sample app and converted the Native Android Java code into a C# Xamarin sample app. 
 
