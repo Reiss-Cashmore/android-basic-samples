@@ -2,6 +2,18 @@ Google Play game services - Android Samples
 ===========================================
 Copyright (C) 2014 Google Inc.
 
+# xamarin-google-play-services-sample
+I have taken the playgameservices/android-basic-samples Button Clicker sample app and converted the Native Android Java code into a C# Xamarin sample app. 
+
+# Project
+This project demonstrates how to use the Real Time Multiplayer functionality provided by the Google Play Games Services. I have taken the Button Click app from the Google Play Services Examples repository from here:
+
+I have converted the Java Classes and Methods into their C# counterparts.
+
+Disclaimer: I have by no means created an app that adheres to Xamarin Recommended app and programming architecture, conventions and practices. I have simply made the code compliant with C# to show how you can use the Google Play Games Services within a Xamarin app. This project is for illustrative purposes only and to use this project to form a foundation for your own Xamarin project would be an unwise thing to do.
+# Building
+
+
 <h2>Contents</h2>
 
 These are the Android samples for Google Play game services.
