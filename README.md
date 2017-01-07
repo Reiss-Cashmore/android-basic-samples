@@ -35,8 +35,4 @@ Step 4: Build and Deploy !
 
 Feel free to raise an issue on this project if something is not working and I'll do my best to help
 
-<h2>Special Thanks</h2>
 
-* To [ligi](http://github.com/ligi) for contributing the initial Gradle build files
-* To [grantkemp](https://github.com/grantkemp) for fixing the Eclipse compat build when we migrated to Gradle
-* To [bechhansen](https://github.com/bechhansen) for fixing a bug in GameHelper where the turn-based match was being lost when a non-Games client connected.
