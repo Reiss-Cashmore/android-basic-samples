@@ -19,12 +19,17 @@ These are the Xamarin samples availble demonstrating Google Play game services.
 
     * **ButtonClicker2000**. Represents the new generation in modern button-clicking excitement. A simple multiplayer game sample that shows how to set up the Google Play real-time multiplayer API, invite friends, automatch, accept invitations, use the waiting room UI, send and receive messages and other multiplayer topics.
 
-<h2>Frequently Asked Questions</h2>
-
-If you have questions about the samples, please take a look at [our FAQ](https://github.com/playgameservices/android-samples/blob/master/FAQ.txt).
-
 <h3>Building</h3>
+Step 1: Firstly, set up a your Google Play Services and App to test the app as specified here:
+https://developers.google.com/games/services/console/enabling
 
+Note: Use "ButtonClicker" as your app and package name when setting up the project. If you use a different name for your app and package name be sure to replace the package name in AndroidMainfest.xml
+
+Step 2: Make sure to restore all NuGet packages in Xamarin Studio or Visual Studio before trying to Build the project.
+
+Step 3: Make sure to replace the App Id and App Name in the ids.xml with the one you chose when you set up the game in the Google Developer Console in Step 1
+
+Step 4: Build and Deploy !
 
 <h2>Support</h2>
 
