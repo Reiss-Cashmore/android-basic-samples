@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_id">*PUT APP ID HERE*</string>
+	<string name="app_name">*PUT APP NAME HERE*</string>
+</resources>
